@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2VDVar2dGewdMZo8rRHu43VwD5B4kyYhJfUMc7PG+J2x9daZaNE0kHY1Lyq/I2tq7o2g/Cc7uj9GPkaW8WfMA==",
+  "success": true,
+  "projectFilePath": "D:\\soapservice\\soapservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinodh\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\soapcore\\1.1.0.10\\soapcore.1.1.0.10.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.private.servicemodel\\4.8.1\\system.private.servicemodel.4.8.1.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.reflection.dispatchproxy\\4.7.1\\system.reflection.dispatchproxy.4.7.1.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.security.cryptography.xml\\4.7.0\\system.security.cryptography.xml.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.servicemodel.http\\4.8.1\\system.servicemodel.http.4.8.1.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.servicemodel.primitives\\4.8.1\\system.servicemodel.primitives.4.8.1.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
